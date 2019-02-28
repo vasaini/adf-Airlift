@@ -1,0 +1,6 @@
+{
+	"name": "bigdatagateway",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
