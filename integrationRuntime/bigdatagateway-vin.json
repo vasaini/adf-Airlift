@@ -1,0 +1,6 @@
+{
+	"name": "bigdatagateway-vin",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
